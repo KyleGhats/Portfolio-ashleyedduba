@@ -183,7 +183,6 @@ html p a:hover {
 /* NEW CSS */
 
 .section-landing-banner {
-  
   height: 100vh;
   padding: auto 0;
   overflow: hidden;
@@ -195,7 +194,7 @@ html p a:hover {
 }
 
 .video-pnp {
- width: 100%;
+  width: 100%;
   height: 100vh;
   transform: scale(1.44) translateY(-50%);
 }
