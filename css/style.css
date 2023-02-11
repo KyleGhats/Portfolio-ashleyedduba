@@ -400,23 +400,20 @@ html p a:hover {
   padding-right: 15px;
 }
 
-.dropdown--style:first-child {
-  padding-top: 10px;
-}
-
-.dropdown--style:last-child {
-  padding-bottom: 10px;
+.dropdown--style {
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .dropdown--style:hover {
   background-color: rgb(82, 15, 15);
 }
 
-.rd-dropdown-item a:link {
+.dropdown-menu li a:link {
   color: #fff !important;
 }
 
-.rd-dropdown-item a:link:hover {
+.dropdown-menu li a:link:hover {
   color: #ffd400 !important;
 }
 
