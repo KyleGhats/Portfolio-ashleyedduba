@@ -273,6 +273,14 @@ html p a:hover {
   width: 50%;
 }
 
+.blog-5-img {
+  width: 45%;
+}
+
+.blog-4-img {
+  width: 30%;
+}
+
 .section-reflection-1 {
   background-image: linear-gradient(rgba(127, 14, 14, 0.8), rgba(0, 0, 0, 0.8)),
     url("../images/ashley/public-speaking.webp");
@@ -1847,7 +1855,7 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar .socialite {
-  font-size: 18px;
+  font-size: 24px;
   width: 25px;
   height: 25px;
   line-height: 25px;
@@ -10796,8 +10804,8 @@ a[href*="mailto"] {
   display: block;
   text-align: center;
   color: #ffffff;
-  width: 25px;
-  height: 25px;
+  width: 30px;
+  height: 30px;
   line-height: 25px;
   border-radius: 10em;
 }
