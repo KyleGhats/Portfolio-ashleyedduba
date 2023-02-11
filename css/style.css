@@ -389,6 +389,37 @@ html p a:hover {
   }
 }
 
+.dropdown-menu {
+  padding: 0;
+  margin-top: 10px;
+  background-color: rgb(127, 14, 14);
+}
+
+.dropdown--style {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.dropdown--style:first-child {
+  padding-top: 10px;
+}
+
+.dropdown--style:last-child {
+  padding-bottom: 10px;
+}
+
+.dropdown--style:hover {
+  background-color: rgb(82, 15, 15);
+}
+
+.rd-dropdown-item a:link {
+  color: #fff !important;
+}
+
+.rd-dropdown-item a:link:hover {
+  color: #ffd400 !important;
+}
+
 @media screen and (max-width: 22em) {
   .author-name {
     font-size: 14px !important;
@@ -1966,13 +1997,14 @@ html.tablet .ui-to-top {
 .rd-navbar-static .rd-navbar-dropdown .rd-navbar-dropdown.rd-navbar-open-left {
   left: auto;
   right: 100%;
-  margin-left: 0;
+  margin-left: 15;
   margin-right: 15px;
   transform: translate3d(-30px, 0, 0);
 }
 
 .rd-navbar-static .rd-dropdown-item + .rd-dropdown-item {
   margin-top: 17px;
+  margin-right: 17px;
 }
 
 .rd-navbar-static .rd-dropdown-item.focus .rd-dropdown-link,
