@@ -257,6 +257,7 @@ html p a:hover {
     "Courier New", monospace;
   text-align: justify;
   text-justify: inter-word;
+  font-size: 18px;
 }
 
 .collection-txt {
