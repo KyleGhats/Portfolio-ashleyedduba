@@ -260,6 +260,20 @@ html p a:hover {
   font-size: 18px;
 }
 
+.station-immersion {
+  padding-bottom: 30px;
+  /* padding: 10px; */
+  /* border: 20px solid #7f0e0e inset; */
+}
+
+.immersion-title {
+  padding: 50px;
+}
+
+.row-container{
+  padding: 0 30px;
+}
+
 .collection-txt {
   transform: translateY(-60px);
 }
