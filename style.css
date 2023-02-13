@@ -255,6 +255,9 @@ html p a:hover {
   margin-top: 30px !important;
   font-family: "Source Code Pro", Monaco, Consolas, "Liberation Mono",
     "Courier New", monospace;
+  text-align: justify;
+  text-justify: inter-word;
+  font-size: 18px;
 }
 
 .collection-txt {
