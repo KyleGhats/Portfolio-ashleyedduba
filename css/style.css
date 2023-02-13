@@ -255,6 +255,8 @@ html p a:hover {
   margin-top: 30px !important;
   font-family: "Source Code Pro", Monaco, Consolas, "Liberation Mono",
     "Courier New", monospace;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .collection-txt {
@@ -4698,6 +4700,8 @@ h2 + .tabs-albums {
 }
 
 .nav-video-title {
+  text-align: justify;
+  text-justify: inter-word;
   padding-left: 22px;
   padding-right: 20px;
   line-height: 24px;
