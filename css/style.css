@@ -354,11 +354,18 @@ html p a:hover {
   background-image: linear-gradient(rgba(127, 14, 14, 0.8), rgba(0, 0, 0, 0.8)),
     url("../images/ashley/leadership.jpg");
 }
+
+.section-book {
+  background-image: linear-gradient(rgba(127, 14, 14, 0.8), rgba(0, 0, 0, 0.8)),
+    url("../images/ashley/sky.jpg");
+}
+
 .section-reflection-1,
 .section-reflection-2,
 .section-reflection-3,
 .section-reflection-4,
-.section-reflection-5 {
+.section-reflection-5,
+.section-book {
   background-size: cover;
   background-position: center;
 }
