@@ -210,6 +210,11 @@ html p a:hover {
   z-index: 1;
 }
 
+.cadet-txt {
+  font-size: 24px;
+  text-transform: uppercase;
+}
+
 .section-feature {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
 }
